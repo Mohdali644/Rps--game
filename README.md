@@ -1,4 +1,4 @@
-# This is a simple game made by using HTML, CSS, JavaScript
+# Interactive Rock Paper Scissors game built with HTML, CSS, and JavaScript featuring dynamic UI updates and game logic.
 
 
 
