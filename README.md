@@ -31,7 +31,7 @@ Rps--game/
 ├── style.css         # Styling and layout
 ├── script.js         # Game logic
 └── assets/           # Icons/images for Rock, Paper, Scissors
-
+```
 ---
 
 ## 🚀 Getting Started
