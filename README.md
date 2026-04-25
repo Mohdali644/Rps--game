@@ -45,9 +45,11 @@ Play here: [Rock-Paper-Scissors](https://mohdali644.github.io/Rps--game/)
    git clone https://github.com/mohdali644/Rps--game.git
 2. Navigate to the project folder:
 
-bash
-cd Rps--game
-3. Open index.html in your browser.
+   bash
+   ```
+   cd Rps--game
+   ```
+4. Open index.html in your browser.
 
 ---
 
