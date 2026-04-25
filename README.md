@@ -54,10 +54,10 @@ cd Rps--game
 📸 Screenshots
 (Add screenshots here once captured — e.g., gameplay screen, win/lose states)
 
-🔮 Future Enhancements
+# 🔮 Future Enhancements
 
-🎵 Add sound effects for moves and wins
-🏆 Implement best-of-5 mode for structured gameplay
-✨ Enhance UI with animations and micro-interactions
-🎉 Confetti effect when the player wins
-🌙 Dark mode toggle for modern styling
+- 🎵 Add sound effects for moves and wins
+- 🏆 Implement best-of-5 mode for structured gameplay
+- ✨ Enhance UI with animations and micro-interactions
+- 🎉 Confetti effect when the player wins
+- 🌙 Dark mode toggle for modern styling
