@@ -2,7 +2,7 @@
  ** Live Demo:** https://mohdali644.github.io/Rps--game/
 
 An interactive **Rock-Paper-Scissors** game built with **HTML, CSS, and JavaScript**.  
-This project demonstrates core front-end skills including DOM manipulation, event handling, and responsive UI design — packaged in a clean, minimalist interface with a live scoreboard.
+This project demonstrates core front-end skills including DOM manipulation, event handling, and responsive UI design packaged in a clean, minimalist interface with a live scoreboard.
 
 ---
 
@@ -54,12 +54,9 @@ cd Rps--game
 (Add screenshots here once captured — e.g., gameplay screen, win/lose states)
 
 🔮 Future Enhancements
+
 🎵 Add sound effects for moves and wins
-
 🏆 Implement best-of-5 mode for structured gameplay
-
 ✨ Enhance UI with animations and micro-interactions
-
 🎉 Confetti effect when the player wins
-
 🌙 Dark mode toggle for modern styling
