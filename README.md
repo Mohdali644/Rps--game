@@ -23,12 +23,14 @@ This project demonstrates core front-end skills including DOM manipulation, even
 ---
 
 ## 📂 Project Structure
+```plaintext
 Rps--game/
 │
 ├── index.html        # Main game page
 ├── style.css         # Styling and layout
 ├── script.js         # Game logic
 └── assets/           # Icons/images for Rock, Paper, Scissors
+
 
 
 ---
